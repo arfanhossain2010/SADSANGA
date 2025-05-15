@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://arfanhossain2010.github.io/SADSANGA/</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://arfanhossain2010.github.io/SADSANGA/#home</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://arfanhossain2010.github.io/SADSANGA/#event-news</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://arfanhossain2010.github.io/SADSANGA/#motivation</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://arfanhossain2010.github.io/SADSANGA/#media</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://arfanhossain2010.github.io/SADSANGA/#writings</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://arfanhossain2010.github.io/SADSANGA/#connect</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://arfanhossain2010.github.io/SADSANGA/#contact</loc>
+    <priority>0.8</priority>
+  </url>
+
+</urlset>
